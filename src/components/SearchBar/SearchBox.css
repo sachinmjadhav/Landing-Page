@@ -1,0 +1,18 @@
+.navbar {
+  background: #FFFFFF;
+  border-top-style: solid;
+  border-top-color: #207362;
+  border-top-width: 3px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.nav-pills>li.active>a,
+.nav-pills>li.active>a:focus,
+.nav-pills>li.active>a:hover {
+  background-color: #48A948;
+}
+
+.opacity {
+  background-color: rgba(0, 0, 0, 0.4);
+}
